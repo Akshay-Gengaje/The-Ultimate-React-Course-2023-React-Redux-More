@@ -13,6 +13,7 @@ React simplifies complex UI development, offers component-based architecture, an
 🚀 React is an extremely popular, declarative, component-based, state-driven JavaScript library for building user interfaces, created by Facebook.
 
 - **Highlights-**
+
   - 🧩 React uses a component-based design to build complex UIs by combining components like LEGO pieces.
   - 🔀 JSX, a declarative syntax, is used to describe what each component looks like and how it behaves.
   - 🔄 React keeps the UI in sync with data (state) by automatically re-rendering when the state changes.
@@ -21,6 +22,6 @@ React simplifies complex UI development, offers component-based architecture, an
   - 🏢 React was created by Facebook (now Meta) in 2011 and has revolutionized front-end web development.
   - 🌟 React employs a virtual DOM, Fiber tree, one-way data flow, and more techniques for efficient UI rendering.
 
-🚀 Create-React-App: Ideal for quick starts and learning, but not recommended for real-world projects due to outdated technologies.
-🛠️ Vite: A modern build tool with fast hot module replacement and bundling, suitable for larger applications.
-⚛️ React Frameworks: Next.js and Remix provide additional solutions like routing and server-side rendering, but are not always necessary, especially for learning React.
+- 🚀 Create-React-App: Ideal for quick starts and learning, but not recommended for real-world projects due to outdated technologies.
+- 🛠️ Vite: A modern build tool with fast hot module replacement and bundling, suitable for larger applications.
+- ⚛️ React Frameworks: Next.js and Remix provide additional solutions like routing and server-side rendering, but are not always necessary, especially for learning React.
