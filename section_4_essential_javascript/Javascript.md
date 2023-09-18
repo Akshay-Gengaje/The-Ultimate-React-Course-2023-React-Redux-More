@@ -16,4 +16,4 @@ const { property1, property2, ...rest } = myObject;
 
 ### Example:
 
-    - [Object Destructuring](<./objectDestructuring.js>)
+[Object Destructuring](./objectDestructuring.js)
