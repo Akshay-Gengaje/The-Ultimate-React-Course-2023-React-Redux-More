@@ -24,7 +24,6 @@ body {
 .container {
   max-width: 80rem;
   margin: 0 auto;
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -41,7 +40,6 @@ body {
   /* Non-accessible color */
   color: #edc84b;
   /* color: #af8602; */
-
   text-transform: uppercase;
   text-align: center;
   font-size: 5.2rem;
@@ -148,8 +146,6 @@ body {
   filter: grayscale();
   opacity: 0.8;
 }
-
-/* *************** */
 
 .footer {
   font-size: 1.4rem;

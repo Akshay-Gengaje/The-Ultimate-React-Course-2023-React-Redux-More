@@ -47,12 +47,16 @@ const pizzaData = [
 ];
 
 function App() {
+  const openHour = 12;
+  const closeHour = 22;
+  const hour = new Date().getHours();
+  console.log("Hour", hour);
+  const isOpen = hour >= openHour && hour < closeHour ? true : false;
   return (
     <div className="menu">
-      <h2>Our Menu</h2>
       <Header />
       <Menu />
-      <Footer />
+      <Footer isOpen={isOpen} openHour={openHour} closeHour={closeHour} />
     </div>
   );
 }
@@ -65,10 +69,14 @@ function Header() {
   );
 }
 
-function Footer() {
+function Footer({ isOpen, openHour, closeHour }) {
   return (
     <footer className="footer">
-      {new Date().toLocaleTimeString()}. We're currently open
+      <span>
+        {new Date().toLocaleTimeString()}. We're open from {openHour}:00 to{" "}
+        {closeHour}:00.
+      </span>
+      <span> We're currently {isOpen ? "open" : "closed"}.</span>
     </footer>
   );
 }
@@ -85,12 +93,15 @@ function Pizza() {
   return (
     <div className="pizzas">
       {pizzaData.map((pizza) => (
-        <div className="pizza">
+        <div
+          className={`pizza ${pizza.soldOut ? "sold-out" : ""}`}
+          key={pizza.name}
+        >
           <img src={pizza.photoName} alt="spinaci" />
           <div>
             <h3>{pizza.name}</h3>
             <p>{pizza.ingredients}</p>
-            <span>{pizza.price}</span>
+            <span>{pizza.soldOut ? "Sold Out" : pizza.price}</span>
           </div>
         </div>
       ))}
