@@ -26,5 +26,3 @@
   To communicate from child to parent, you can pass callback functions as props from the parent to the child. The child can then call these functions to update the parent's state. 🧒 ↔️ 🧔
 - **Accessing Global State**:
   Components that need access to global state can do so through context providers (if using context API) or by connecting to the global state store (if using Redux). This allows components to access and update global state as needed. 🌐
-
-In summary, thinking in React involves making decisions about when and where to use state, whether it should be local or global, and how to establish a clear one-way data flow within your application. By following these principles, you can effectively manage state and build robust and maintainable React applications. 🚀
