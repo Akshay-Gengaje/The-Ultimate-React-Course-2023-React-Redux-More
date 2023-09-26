@@ -50,4 +50,4 @@ export default App;
 
 In this example, the discountedPrice is derived from the price and discount props without storing it as a separate state variable.
 
-Derived state can help simplify your component's logic and keep your code more maintainable by avoiding unnecessary state variables. However, it should be used thoughtfully to balance readability and performance considerations.
+- Derived state can help simplify your component's logic and keep your code more maintainable by avoiding unnecessary state variables. However, it should be used thoughtfully to balance readability and performance considerations.
