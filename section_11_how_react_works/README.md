@@ -18,3 +18,5 @@
 | :-----: | :-----------------------------------------------------------------------: |
 |    1    | [Component vs Instance Vs Element](./Component_VS_Instance_VS_Element.md) |
 |    2    |            [How renedering Works](<./How Rendering Works.md>)             |
+|    3    |            [What is virtual DOM ? ](<./Virtual DOM.md>)             |
+|    4    |                [Rendering Phases](<./Rendering Phases.md>)                |
