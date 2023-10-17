@@ -20,4 +20,6 @@
 |    2    |            [How renedering Works](<./How Rendering Works.md>)             |
 |    3    |               [What is virtual DOM ? ](<./Virtual DOM.md>)                |
 |    4    |                [Rendering Phases](<./Rendering Phases.md>)                |
-|    5    |                [Reconciliation](<./Reconciliation.md>)                |
+|    5    |                   [Reconciliation](./Reconciliation.md)                   |
+|    6    |                    [Commit Phase](<./Commit Phase.md>)                    |
+|    7    |                     [How Diffing Works](./Diffing.md)                     |
