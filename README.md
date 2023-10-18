@@ -15,3 +15,4 @@ This repository contains the code for the Udemy course 'The Ultimate React Cours
 |    9    |                  [Project : Eat-N-Split](./Projects/eat-n-slip/README.md)                  |
 |   10    |          [Thinking in React : Componentes, Compositions](./section_10/ReadMe.md)           |
 |   11    |        [How React works behind the scenes](./section_11_how_react_works/README.md)         |
+
