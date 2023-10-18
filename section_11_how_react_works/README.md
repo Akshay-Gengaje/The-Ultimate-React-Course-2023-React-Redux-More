@@ -23,3 +23,4 @@
 |    5    |                   [Reconciliation](./Reconciliation.md)                   |
 |    6    |                    [Commit Phase](<./Commit Phase.md>)                    |
 |    7    |                     [How Diffing Works](./Diffing.md)                     |
+|    7    |         [Framework vs Library](./Framework%20vs%20Library.md.md)          |
