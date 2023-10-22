@@ -1,6 +1,6 @@
 # useRef Hook
 
-The `useRef` hook in React is a versatile and essential tool that allows you to create mutable references to elements, values, or objects in functional components. It's primarily used for cases where you need to interact with the DOM, manage mutable values, or persist values across renders. Here's an explanation of `useRef`, why to use it, and when to use it:
+The `useRef` hook in React is a versatile and essential tool that allows you to create mutable references to elements, values, or objects in functional components. It's primarily used for cases where you need to interact with the DOM, manage mutable values, or persist values across renders. Here's an explanation of `useRef`, ssswhy to use it, and when to use it:
 
 1. **Creating Refs**:
    The `useRef` hook allows you to create refs in functional components. A ref is an object with a `current` property that can hold a reference to a DOM element or any other mutable value.

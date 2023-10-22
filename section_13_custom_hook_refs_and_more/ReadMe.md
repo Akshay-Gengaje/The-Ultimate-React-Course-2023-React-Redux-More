@@ -18,3 +18,4 @@ A deep dive into React Hooks, with a focus on understanding their rules and impo
 |    2    |     [Rules of Hooks ](./Rules%20of%20Hooks.md)      |
 |    3    |       [useState Hooks ](./useState%20Hook.md)       |
 |    4    |         [useRef Hooks ](./useRef%20Hook.md)         |
+|    5    |         [Custom Hooks ](./custom%20hook.md)         |
