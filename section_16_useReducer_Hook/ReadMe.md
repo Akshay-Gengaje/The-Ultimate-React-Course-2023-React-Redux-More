@@ -3,14 +3,14 @@ The `useReducer` hook is a built-in hook in React that allows you to manage comp
 Here's how you can use the `useReducer` hook in a React component:
 
 ```jsx
-import React, { useReducer } from 'react';
+import React, { useReducer } from "react";
 
 // Define your reducer function. It takes the current state and an action as arguments and returns the new state.
 const reducer = (state, action) => {
   switch (action.type) {
-    case 'INCREMENT':
+    case "INCREMENT":
       return { count: state.count + 1 };
-    case 'DECREMENT':
+    case "DECREMENT":
       return { count: state.count - 1 };
     default:
       return state;
@@ -23,11 +23,11 @@ function Counter() {
 
   // Define functions that dispatch actions to update the state.
   const increment = () => {
-    dispatch({ type: 'INCREMENT' });
+    dispatch({ type: "INCREMENT" });
   };
 
   const decrement = () => {
-    dispatch({ type: 'DECREMENT' });
+    dispatch({ type: "DECREMENT" });
   };
 
   return (
@@ -45,3 +45,11 @@ export default Counter;
 In this example, we define a reducer function that takes the current state and an action as arguments and returns the new state. The `useReducer` hook is then used to initialize the state with an initial value and the reducer function. We also define functions (`increment` and `decrement`) that dispatch actions to update the state. When these functions are called, they specify the type of action they represent, and the reducer function handles the state updates accordingly.
 
 Using `useReducer` can make your code more maintainable and scalable when dealing with complex state management, as it centralizes state logic and makes it easier to understand and modify.
+
+# Why useReducer ?
+
+![Alt text](image.png)
+
+# Managing state with useReduce
+
+![Alt text](image-1.png)
