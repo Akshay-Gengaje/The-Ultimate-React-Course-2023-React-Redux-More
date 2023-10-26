@@ -53,3 +53,11 @@ Using `useReducer` can make your code more maintainable and scalable when dealin
 # Managing state with useReduce
 
 ![Alt text](image-1.png)
+
+# useState vs useReducer
+
+![Alt text](image-3.png)
+
+# When to use useReducer ?
+
+![Alt text](image-2.png)
