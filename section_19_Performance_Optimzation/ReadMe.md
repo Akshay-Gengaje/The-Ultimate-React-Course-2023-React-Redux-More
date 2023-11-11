@@ -11,3 +11,9 @@ In this section, the focus is on delving into the inner workings of React, speci
 - 📝 Viewers are encouraged to take thorough notes to make the most of the shared knowledge.
 - 🌐 The content includes an in-depth discussion on the useEffect functionality, covering advanced aspects.
 - 🎉 The narrator expresses excitement about sharing this advanced section, indicating it's a valuable resource for React developers.
+
+| **No.** |                                               **Topics**                                                |
+| :-----: | :-----------------------------------------------------------------------------------------------------: |
+|    1    |                       [Performance Optimization](./Performance%20Optimization.md)                       |
+|    2    |                           [React Profiler Tool](./React%20Profiler%20Tool.md)                           |
+|    2    | [Optimizing Re-renders in React: Function as Children](./Optimization%20using%20children%20function.md) |
