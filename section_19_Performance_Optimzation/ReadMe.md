@@ -16,4 +16,10 @@ In this section, the focus is on delving into the inner workings of React, speci
 | :-----: | :-----------------------------------------------------------------------------------------------------: |
 |    1    |                       [Performance Optimization](./Performance%20Optimization.md)                       |
 |    2    |                           [React Profiler Tool](./React%20Profiler%20Tool.md)                           |
-|    2    | [Optimizing Re-renders in React: Function as Children](./Optimization%20using%20children%20function.md) |
+|    3    | [Optimizing Re-renders in React: Function as Children](./Optimization%20using%20children%20function.md) |
+|    4    |                                    [Memorization](./Memoization.md)                                     |
+|    5    |                                  [Memo Function](./Memo%20function.md)                                  |
+|    6    |                                      [useMemo Hook](./useMemo.md)                                       |
+|    7    |                                  [useCallback Hook](./useCallback.md)                                   |
+|    8    |                                 [Code Splitting](./Code%20Spliting.md)                                  |
+|    8    |                          [useEffect Rules and Best Practices](./useEffect.md)                           |
