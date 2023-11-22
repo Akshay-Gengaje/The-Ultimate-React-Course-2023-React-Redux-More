@@ -22,4 +22,4 @@ In this section, the focus is on delving into the inner workings of React, speci
 |    6    |                                      [useMemo Hook](./useMemo.md)                                       |
 |    7    |                                  [useCallback Hook](./useCallback.md)                                   |
 |    8    |                                 [Code Splitting](./Code%20Spliting.md)                                  |
-|    8    |                          [useEffect Rules and Best Practices](./useEffect.md)                           |
+|    9    |                          [useEffect Rules and Best Practices](./useEffect.md)                           |
