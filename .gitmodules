@@ -1,3 +1,6 @@
 [submodule "Project/ast-pizza-app"]
 	path = Project/ast-pizza-app
 	url = https://github.com/Akshay-Gengaje/fast-react-pizza-app
+[submodule "Projects/fast-pizza-react-app"]
+	path = Projects/fast-pizza-react-app
+	url = https://github.com/Akshay-Gengaje/fast-react-pizza-app
