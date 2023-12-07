@@ -4,3 +4,6 @@
 [submodule "Projects/fast-pizza-react-app"]
 	path = Projects/fast-pizza-react-app
 	url = https://github.com/Akshay-Gengaje/fast-react-pizza-app
+[submodule "Projects/The_Wild_Oasis"]
+	path = Projects/The_Wild_Oasis
+	url = https://github.com/Akshay-Gengaje/The_Wild_Oasis.git
