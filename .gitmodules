@@ -8,3 +8,6 @@
 [submodule "Projects/atomic_blog"]
 	path = Projects/atomic_blog
 	url = https://github.com/Akshay-Gengaje/atomic_blog.git
+[submodule "Projects/eat-n-split"]
+	path = Projects/eat-n-split
+	url = https://github.com/Akshay-Gengaje/eat-n-split.git
