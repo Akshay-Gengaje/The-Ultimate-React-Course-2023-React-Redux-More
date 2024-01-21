@@ -5,3 +5,6 @@
 [submodule "Projects/the_wild_oasis"]
 	path = Projects/the_wild_oasis
 	url = https://github.com/Akshay-Gengaje/The_Wild_Oasis.git
+[submodule "Projects/atomic_blog"]
+	path = Projects/atomic_blog
+	url = https://github.com/Akshay-Gengaje/atomic_blog.git
