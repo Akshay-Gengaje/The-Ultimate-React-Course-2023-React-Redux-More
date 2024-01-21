@@ -23,3 +23,6 @@
 [submodule "Projects/worldwise"]
 	path = Projects/worldwise
 	url = https://github.com/Akshay-Gengaje/worldwise.git
+[submodule "Projects/redux_intro"]
+	path = Projects/redux_intro
+	url = https://github.com/Akshay-Gengaje/redux_intro.git
