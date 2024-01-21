@@ -17,3 +17,6 @@
 [submodule "Projects/react-quiz"]
 	path = Projects/react-quiz
 	url = https://github.com/Akshay-Gengaje/react-quiz.git
+[submodule "Projects/usePopcorn"]
+	path = Projects/usePopcorn
+	url = https://github.com/Akshay-Gengaje/usePopcorn.git
