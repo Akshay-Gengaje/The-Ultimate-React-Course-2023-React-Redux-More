@@ -11,3 +11,6 @@
 [submodule "Projects/eat-n-split"]
 	path = Projects/eat-n-split
 	url = https://github.com/Akshay-Gengaje/eat-n-split.git
+[submodule "Projects/far-away-travel-app"]
+	path = Projects/far-away-travel-app
+	url = https://github.com/Akshay-Gengaje/far_away_travel_app.git
