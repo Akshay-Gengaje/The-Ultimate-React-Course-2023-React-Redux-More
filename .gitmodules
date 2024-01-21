@@ -14,3 +14,6 @@
 [submodule "Projects/far-away-travel-app"]
 	path = Projects/far-away-travel-app
 	url = https://github.com/Akshay-Gengaje/far_away_travel_app.git
+[submodule "Projects/react-quiz"]
+	path = Projects/react-quiz
+	url = https://github.com/Akshay-Gengaje/react-quiz.git
