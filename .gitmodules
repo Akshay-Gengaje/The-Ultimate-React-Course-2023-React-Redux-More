@@ -20,3 +20,6 @@
 [submodule "Projects/usePopcorn"]
 	path = Projects/usePopcorn
 	url = https://github.com/Akshay-Gengaje/usePopcorn.git
+[submodule "Projects/worldwise"]
+	path = Projects/worldwise
+	url = https://github.com/Akshay-Gengaje/worldwise.git
